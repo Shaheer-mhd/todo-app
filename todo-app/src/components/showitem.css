@@ -1,0 +1,18 @@
+.show-item {
+    background: lightgray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-size: 20px;
+    color: dimgray;
+    font-weight: bold;
+}
+
+span {
+    float: right;
+    border: 1px solid black;
+    padding: 0 5px;
+    background: red;
+    color: white;
+    cursor: pointer;
+}

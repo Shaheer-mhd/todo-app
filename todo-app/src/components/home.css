@@ -1,0 +1,42 @@
+.home-page {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.buttonDiv {
+    display: flex;
+    flex-direction: row-reverse
+}
+
+#home {
+    margin: 10px 40px 10px 40px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px 30px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    font-size: 25px;
+}
+
+::-webkit-input-placeholder {
+    font-size: 25px;
+}
+
+#add-btn {
+    margin-top: 10px;
+    padding: 15px 25px;
+    background: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
